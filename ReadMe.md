@@ -738,20 +738,14 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
  </details>
 
 <details> 
-<summary> <h2>📕 Machine Learning Resources </h2> </summary>
+<summary> <h2>📕 Math for Machine Learning Resources </h2> </summary>
 
 ## 👁️ Chapter 1: - **Free Courses**
 | No. | Title/Link | Description | Reading Status | University / Platform | Feedback |
 |-----|------------|-------------|----------------|------------------------|----------|
-| 1 | [**Machine Learning Specialization**](https://www.coursera.org/specializations/machine-learning-introduction/?msockid=2542a2661bba61a702b4b7c51a616059) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |
-| 1 | [**CS229M: Machine Learning Theory**](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |
-| 2 | [**Machine Learning**](https://techdevguide.withgoogle.com/paths/machine-learning/) | A free course from Google | Pending | Google |  |
-| 3 | [**Machine Learning from Scratch - Python**](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) | By Patrick Loeber (YouTube) | Pending | YouTube |  |
-| 4 | [**Machine Learning Zoomcamp**](https://github.com/DataTalksClub/machine-learning-zoomcamp) | A free 4-month course on ML engineering | Pending | DataTalks.Club |  |
-| 5 | [**Stanford CS229: Machine Learning**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) | Full course taught by Andrew Ng | Pending | Stanford |  |
-| 6 | [**Google Machine Learning Education**](https://developers.google.com/machine-learning) | Google's dedicated ML learning hub | Pending | Google |  |
-| 7 | [**StatQuest: Machine Learning**](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2) | Easy-to-understand ML explained with stats | Pending | StatQuest (YouTube) |  |
-| 8 | [**PreCalculus - Math for ML**](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcFN7BoQsgCyS9Wh0JPwttc) | By Dr. Trefor Bazett (Great math fundamentals) | Pending | YouTube |  |
+| 1 | [**✅ Mathematics for Machine Learning and Data Science Specialization**](https://www.coursera.org/organizations/pakistan/specializations/mathematics-for-machine-learning-and-data-science?afsrc=1&irclickid=RIMwY4SGUxycUVyXND0fZwm4UkuX6hU473AAU80&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |
+| 1 | [**✅ Mathematics for Machine Learning and Data Science Specialization**](https://www.coursera.org/organizations/pakistan/specializations/mathematics-machine-learning?afsrc=1&irclickid=RIMwY4SGUxycUVyXND0fZwm4UkuX6hTI73AAU80&irgwc=1&utm_campaign=3401872&utm_campaignid=thecleverprogrammer&utm_content=b2c&utm_medium=partners&utm_source=impact&utm_term=14726_CR_1164545_) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ | |
+| 8 | [**✅PreCalculus - Math for ML**](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcFN7BoQsgCyS9Wh0JPwttc) | By Dr. Trefor Bazett (Great math fundamentals) | Pending | YouTube |  |
 | 9 | [**Machine Learning with Graphs**](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Covers GNNs and graph-based ML | Pending | Stanford |  |
 | 10 | [**MIT RES.LL-005 Mathematics of Big Data and ML**](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) | In-depth mathematical foundations | Pending | MIT |  |
 | 11 | [**CS294-158 Deep Unsupervised Learning SP19**](https://www.mrdbourke.com/2020-machine-learning-roadmap/) | Covers deep learning and generative models | Pending | UC Berkeley |  |
