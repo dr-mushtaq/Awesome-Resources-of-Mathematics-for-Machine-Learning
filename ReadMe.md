@@ -330,7 +330,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 </details>
 
 <details> 
-<summary> <h2>Course 01 - ⚙️ Tree Base Machine Learning </h2> </summary>
+<summary> <h2>Course 01 - ⚙️ Multivariate Calculus </h2> </summary>
   
 #### Youtube Playlist  
 - **[Decision Trees by Shaw Talebi](https://www.youtube.com/playlist?list=PLz-ep5RbHosUZTQsnTiqn45BrQ8WaTm9M)**
