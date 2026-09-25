@@ -1,7 +1,6 @@
-## Complete Machine Learning & Data Science A-Z Guide | Algorithms, Feature Selection & Implementation in Python
+## Complete Math for Machine Learning A-Z Guide | Linear Algebra, Calculus, Probability & Statistics
 
-Complete A-Z Machine Learning & Data Science guide with algorithm implementations, statistical methods, and feature selection in Jupyter Notebooks
-Machine Learning Algorithms in Python, Complete ML Guide Tutoria, Data Science Implementation Examples, Scikit-learn Jupyter Notebooks, ML Feature Selection Techniques,Supervised Learning Classification Regression" - Core ML concepts
+Complete Math for Machine Learning Guide with Linear Algebra, Calculus, Probability & Statistics, and Optimization. Mathematical Foundations for Machine Learning, Practical Math Examples in Python, Jupyter Notebook Exercises, Vectors & Matrices, Eigenvalues & Eigenvectors, Derivatives & Gradients, Probability & Statistics, Optimization Techniques, and Core Mathematical Concepts for ML.
 
 
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
