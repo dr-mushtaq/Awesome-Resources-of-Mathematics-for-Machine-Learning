@@ -102,10 +102,6 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-🔗 [**Dev.to**](https://dev.to/mushtaq_hussain_6678b0b0e/understanding-artificial-intelligence-history-definitions-and-modern-applications-125l)
-
-🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
-
 🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
 
 🔗 [**Gumroad**](https://gumroad.com/products/antows/edit)
@@ -115,18 +111,15 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 
 <details> 
-<summary> <h2>Course 01 - ⚙️Machine Learning </h2> </summary>
+<summary> <h2>Course 01 - ⚙️Linear Algebra </h2> </summary>
 
 #### Course
 - **[Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)** - FREE
-- **[Production Machine Learning Systems Course by Coursera](https://www.coursera.org/learn/gcp-production-ml-systems?specialization=preparing-for-google-cloud-machine-learning-engineer-professional-certificate&irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr08QQ873AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=4838646&utm_content=b2c&utm_campaignid=clcoding&utm_term=14726_SI_1164545_#modules)** - FREE
 #### Github
 - **[Machine Learning Crash Course by Miscrofot](**https://github.com/microsoft/ML-For-Beginners**)** - FREE
 #### Blog Webite 
 - **[MLAcademy](https://www.learnmlacademy.com)** - FREE
-- **[From Zero to Machine Learning Engineer by miscroft](https://learn.microsoft.com/en-us/collections/86w0cztk0gjpm4?wt.mc_id=studentamb_523020)** - FREE
-
-## 📚Chapter: 1  - **Introduction**
+## 📚Chapter: 1  - **Introduction to Linear Algebra and to Mathematics for Machine Learning**
  
 | Topic Name/Tutorial  | Video | Video |collaboration doc|Extra Resources|
 |---|---|---|----|---|
