@@ -123,7 +123,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
  
 | Topic Name/Tutorial  | Video | Video |collaboration doc|Extra Resources|
 |---|---|---|----|---|
-|**✅1-1-Introduction Solving data science challenges with mathematics**|[1](https://drive.google.com/file/d/1r6cQLR4Koljj6-N3vUdZaCgg4KI7YijS/view?usp=sharing)[-2](https://youtu.be/GN0IMta3WpM si=BewZbfyxGuEXQ-67)| Content 3 |---|
+|**✅1-1-Introduction Solving data science challenges with mathematics**|[1](https://drive.google.com/file/d/1r6cQLR4Koljj6-N3vUdZaCgg4KI7YijS/view?usp=sharing)| Content 3 |---|
 
    
  ## 📚Chapter: 2 -**Linear Regression with one Variable**
