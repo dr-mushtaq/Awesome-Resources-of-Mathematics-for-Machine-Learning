@@ -121,8 +121,8 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 - **[MLAcademy](https://www.learnmlacademy.com)** - FREE
 ## 📚Chapter: 1  - **Introduction to Linear Algebra and to Mathematics for Machine Learning**
  
-| Topic Name/Tutorial  | Video | Video |collaboration doc|Extra Resources|
-|---|---|---|----|---|
+| Topic Name/Tutorial  | Video | Code |Extra Resources|
+|---|---|---|----|
 |**✅1-1-Introduction Solving data science challenges with mathematics**|[1](https://drive.google.com/file/d/1r6cQLR4Koljj6-N3vUdZaCgg4KI7YijS/view?usp=sharing)| Content 3 |---|
 
    
