@@ -123,13 +123,13 @@ Please enrolled in the following courses to strengthen knowledge and practical s
  
 | Topic Name/Tutorial  | Video | Video |collaboration doc|Extra Resources|
 |---|---|---|----|---|
-|[**✅1-1-Introduction Solving data science challenges with mathematics**| [1](https://drive.google.com/file/d/1r6cQLR4Koljj6-N3vUdZaCgg4KI7YijS/view?usp=sharing)[-2](https://youtu.be/GN0IMta3WpM si=BewZbfyxGuEXQ-67) | Content 3 |[Link](https://docs.google.com/document/d/1IjiHsh8Q9ldiCMEkEJqfpArfRm_sPAy-N9pNmnSHASY/edit?usp=sharing)|[1](https://www.youtube.com/watch?v=UFOLoPU3rZ0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=10)[-2](https://www.robonaissance.com/p/a-brief-history-of-artificial-intelligence)|
+|**✅1-1-Introduction Solving data science challenges with mathematics**|[1](https://drive.google.com/file/d/1r6cQLR4Koljj6-N3vUdZaCgg4KI7YijS/view?usp=sharing)[-2](https://youtu.be/GN0IMta3WpM si=BewZbfyxGuEXQ-67)| Content 3 |---|
 
    
  ## 📚Chapter: 2 -**Linear Regression with one Variable**
  |Topic Name/Tutorial | Video | Code |Extra Reading|
 |---|---|---|---|
-|[**✅Model Representation**](https://open.substack.com/pub/mushtaqmsit/p/understanding-linear-regression-in?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[**1**](https://drive.google.com/file/d/1nPB_82i53TjCjU172HI-bmvQ75etA_X1/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Vx2DpMgplEM)[-3](https://www.youtube.com/watch?v=l4-uAgreVL0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=13)|---|
+|**✅Model Representation**](https://open.substack.com/pub/mushtaqmsit/p/understanding-linear-regression-in?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[**1**](https://drive.google.com/file/d/1nPB_82i53TjCjU172HI-bmvQ75etA_X1/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Vx2DpMgplEM)[-3](https://www.youtube.com/watch?v=l4-uAgreVL0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=13)|---|
 | **✅1-Simple Linear Regression using sklearn(Lab1)**| --- |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)|
 | **✅2-Simple Linear Regression with python-Andrew** | --- |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb)|
 |[**✅Understanding the Linear Regression Cost Function**](https://mushtaqmsit.substack.com/p/understanding-linear-regression-cost)|[1](https://drive.google.com/file/d/1vSBf6rM-jLTaMOh2R6UttashE3wBLKY9/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|[1](https://medium.com/@adityagupta041050/easy-way-to-understand-and-visualize-loss-and-cost-functions-72cb73137353)|
