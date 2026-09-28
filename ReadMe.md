@@ -123,7 +123,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
  
 | Topic Name/Tutorial  | Video | Video |collaboration doc|Extra Resources|
 |---|---|---|----|---|
-|[**✅1-1-Introduction Solving data science challenges with mathematics**](https://github.com/dr-mushtaq/Machine-Learning/blob/master/Machine%20Learning/%F0%9F%93%9AChapter%201%20-%20Introduction/Why%20we%20used%20AI.md#Benefits-of-Machine-Learning)| [1](https://drive.google.com/file/d/1r6cQLR4Koljj6-N3vUdZaCgg4KI7YijS/view?usp=sharing)[-2](https://youtu.be/GN0IMta3WpM?si=BewZbfyxGuEXQ-67)](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |[Link](https://docs.google.com/document/d/1IjiHsh8Q9ldiCMEkEJqfpArfRm_sPAy-N9pNmnSHASY/edit?usp=sharing)|[1](https://www.youtube.com/watch?v=UFOLoPU3rZ0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=10)[-2](https://www.robonaissance.com/p/a-brief-history-of-artificial-intelligence)|
+|[**✅1-1-Introduction Solving data science challenges with mathematics**| [1](https://drive.google.com/file/d/1r6cQLR4Koljj6-N3vUdZaCgg4KI7YijS/view?usp=sharing)[-2](https://youtu.be/GN0IMta3WpM si=BewZbfyxGuEXQ-67) | Content 3 |[Link](https://docs.google.com/document/d/1IjiHsh8Q9ldiCMEkEJqfpArfRm_sPAy-N9pNmnSHASY/edit?usp=sharing)|[1](https://www.youtube.com/watch?v=UFOLoPU3rZ0&list=PLLC7bmONapvCMIq9CYQ96toefve_0yQzo&index=10)[-2](https://www.robonaissance.com/p/a-brief-history-of-artificial-intelligence)|
 
    
  ## 📚Chapter: 2 -**Linear Regression with one Variable**
