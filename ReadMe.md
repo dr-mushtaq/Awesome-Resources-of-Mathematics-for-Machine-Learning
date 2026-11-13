@@ -872,7 +872,7 @@ This table provides an overview of essential machine learning algorithms, organi
 
 | **Title**                         | **Description**                                     | **Status** |
 |-----------------------------------|-----------------------------------------------------|------------|
-| [**✅ 1-ProjectPro Podcast**](https://www.projectpro.io/podcast?utm_source=pawan&utm_medium=reddit) | Comprehensive roadmap for AI courses               | Completed  |
+| [**✅ 1-Professor Leonard**](https://www.youtube.com/@ProfessorLeonard/courses) | This Channel is dedicated to quality mathematics education| Completed  |
 
 ## 👁️ Chapter 2: Notebooks
 
