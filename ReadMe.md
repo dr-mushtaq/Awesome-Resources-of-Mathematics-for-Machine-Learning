@@ -20,22 +20,15 @@ Complete Math for Machine Learning Guide with Linear Algebra, Calculus, Probabil
 The A-Z Guide to Math for Machine Learning is a comprehensive resource designed to help both beginners and experienced practitioners build a strong mathematical foundation for Machine Learning. Whether you're just starting your journey into ML mathematics or looking to strengthen your understanding of the concepts behind machine learning algorithms, this repository covers the essential mathematical topics you need. From linear algebra and calculus to probability, statistics, and optimization, you'll find practical explanations, examples, and exercises to help you understand and apply mathematical concepts in Machine Learning.
 
 <div>
-<h2>💖 Sponsors</h2>
-
-**Your support helps us:**
-
-- Create free tutorials, guides, and datasets for learners worldwide 🌍
-- Maintain research repositories and AI projects 📚
-- Host workshops, webinars, and community learning events 💬
-- Encourage students and educators to explore Data Science, Machine Learning, and Deep Learning 🚀
----
-
 ### 🙌 Become a Sponsor
 
-You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
+You can support this project by becoming a sponsor on  **Gumroad:** —  📧 [Gumroad:]( https://couresesteach.gumroad.com/l/SupportCoursesTeach). or via Patron
 
-Every contribution — big or small — helps sustain the development of **open-source Python learning materials**, **AI-driven educational resources**, and **data science tools**.  
+[<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" width="200">](https://www.patreon.com/cw/coursesteach)
+
+Every contribution — big or small — helps sustain the development of **AI tools and Resources**, **AI-driven educational resources**, and **data science tools**.  
 Thank you for your generous support! 🌟
+
 
 ## Quick Start Checklist with Links
 
