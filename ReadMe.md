@@ -19,7 +19,6 @@ Complete Math for Machine Learning Guide with Linear Algebra, Calculus, Probabil
 
 The A-Z Guide to Math for Machine Learning is a comprehensive resource designed to help both beginners and experienced practitioners build a strong mathematical foundation for Machine Learning. Whether you're just starting your journey into ML mathematics or looking to strengthen your understanding of the concepts behind machine learning algorithms, this repository covers the essential mathematical topics you need. From linear algebra and calculus to probability, statistics, and optimization, you'll find practical explanations, examples, and exercises to help you understand and apply mathematical concepts in Machine Learning.
 
-<div>
 ### 🙌 Become a Sponsor
 
 You can support this project by becoming a sponsor on  **Gumroad:** —  📧 [Gumroad:]( https://couresesteach.gumroad.com/l/SupportCoursesTeach). or via Patron
